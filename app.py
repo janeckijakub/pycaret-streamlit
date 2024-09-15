@@ -1,5 +1,5 @@
-!pip install pycaret --upgrade
-!pip install streamlit -q
+pip install pycaret --upgrade
+pip install streamlit -q
 
 
 import streamlit as st
